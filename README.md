@@ -1,8 +1,8 @@
 # WeatherStationAndAlarm
 3in1: esp8266 weather station using Open-Meteo API, 433 MHz alarm system with Telegram Bot, ENS160 air quality sensor for indoor
 
- ![alt text](https://github.com/AlexeyMal/WeatherStationAndAlarm/blob/main/photos/IMG_3806.jpg)
- ![alt text](https://github.com/AlexeyMal/WeatherStationAndAlarm/blob/main/photos/IMG_3949.jpg)
+ ![alt text](https://github.com/AlexeyMal/WeatherStationAndAlarm/blob/main/photos/IMG_3806.jpeg)
+ ![alt text](https://github.com/AlexeyMal/WeatherStationAndAlarm/blob/main/photos/IMG_3949.jpeg)
  ![alt text](https://github.com/AlexeyMal/WeatherStationAndAlarm/blob/main/photos/telegram.png)
  
  Can be programmed to ESP8266 using Arduino IDE.
